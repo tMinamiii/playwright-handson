@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "pga4_session",
+      "value": "69f43535-7809-4795-b231-df167af3eb23!gwwcsjM054NkqLqNnKdu8rOv8BKTjkzOErqPJeKNXyg=",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1726865303.675286,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PGADMIN_LANGUAGE",
+      "value": "en",
+      "domain": "localhost",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost:8888",
+      "localStorage": [
+        {
+          "name": "__test__",
+          "value": "\ud800"
+        }
+      ]
+    }
+  ]
+}
